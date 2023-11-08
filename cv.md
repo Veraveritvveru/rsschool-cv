@@ -22,3 +22,11 @@ function greet() {
     return "hello world!";
     }
 ```
+
+## Education
+Bachelor, Saint-Petersburg State University of Economics, Saint-Petersburg, Faculty of Humanities.
+
+## Languages
+* English - A1
+* German - B2
+* Russian - native 
