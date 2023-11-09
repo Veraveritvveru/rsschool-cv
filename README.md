@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Veraveritvveru.github.io/rsschool-cv/
